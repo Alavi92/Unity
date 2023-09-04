@@ -18,7 +18,7 @@ I developed some 2D and 3D games. My main focus was not on the appearance, but o
 
 You can watch the short video, showing how the 3D game looks like and how things work.
 
-You can download the complete projects using the following link:
+You can download the complete projects using the following link. Note that the objective of the 2D game was for an interactive conversation in a 2D environment. The above-mentioned features belong to the 3D game.
 https://seafile.rlp.net/d/070d3c50a2e04709b624/
 
 
