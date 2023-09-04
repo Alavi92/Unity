@@ -11,6 +11,7 @@ I developed three games. One was 2D and the others were 3D. My main focus was no
 *   Object color change while being in touch with certain surfaces
 *   variety of moving obstacles
 *   some characters as enemies, which switch between guarding, chasing the player, or catching the player, in which the game ends(Using Finite State Machines)
+*   Using Free assets from Asset Store
 *   Language boxes with buttons for interaction during the game
 *   Hidden door that appear by jumping over a button. The door leads to a different scene
 *   Crossing the river with a boat, which is otherwise untouchable
